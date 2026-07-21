@@ -9,22 +9,28 @@ const works = [
         link: "https://play.google.com/store/apps/details?id=com.zensoftwaresolutions.triptracker",
     },
     {
-        title: "E-Summit Portal – IIT Roorkee",
-        description: "Django + PostgreSQL platform serving 2,500+ participants, with a real-time event-day control panel.",
-        image: "https://images.unsplash.com/photo-1540575467063-178a50c2df87?auto=format&fit=crop&w=800&q=60",
-        link: "https://esummit.in/",
-    },
-    {
         title: "Eve – Social App",
         description: "Real-time activity-based social platform. 12+ Django REST APIs on GCP, Flutter app live on Play Store & App Store.",
         image: "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=800&q=60",
         link: "https://play.google.com/store/apps/details?id=com.meetwitheve.eve&hl=en_IN",
     },
     {
+        title: "E-Summit Portal – IIT Roorkee",
+        description: "Django + PostgreSQL platform serving 2,500+ participants, with a real-time event-day control panel.",
+        image: "https://images.unsplash.com/photo-1540575467063-178a50c2df87?auto=format&fit=crop&w=800&q=60",
+        link: "https://esummit.in/",
+    },
+    {
         title: "DRIFT – AI Travel Planner",
         description: "Agentic travel planner on Azure AI Foundry — three coordinated AI agents build budget-aware itineraries end to end.",
         image: "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=800&q=60",
         link: "https://black-plant-029c6b700.4.azurestaticapps.net/",
+    },
+    {
+        title: "Golden Oak AR",
+        description: "AR restaurant menu with photoreal 3D dishes and nutrition labels — works on web and iOS/Android AR.",
+        image: "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=800&q=60",
+        link: "https://agreeable-hill-038c15a00.7.azurestaticapps.net/",
     },
     {
         title: "AI Interviewer",
@@ -43,12 +49,6 @@ const works = [
         description: "AI deception-analysis tool — transcribes testimony with Whisper and flags contradictions and evasions to synthesize the likely truth.",
         image: "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&fit=crop&w=800&q=60",
         link: "https://github.com/deepak0x/Truth-Weaver",
-    },
-    {
-        title: "Golden Oak AR",
-        description: "AR restaurant menu with photoreal 3D dishes and nutrition labels — works on web and iOS/Android AR.",
-        image: "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=800&q=60",
-        link: "https://agreeable-hill-038c15a00.7.azurestaticapps.net/",
     },
 ];
 
