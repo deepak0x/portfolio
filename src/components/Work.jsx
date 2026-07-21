@@ -33,12 +33,6 @@ const works = [
         link: "https://github.com/deepak0x/RAGGaze",
     },
     {
-        title: "Editron",
-        description: "Browser-based dev environment powered by WebContainers, Monaco Editor, and integrated AI — build & run without local setup.",
-        image: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=60",
-        link: "https://github.com/deepak0x/Editron",
-    },
-    {
         title: "Golden Oak AR",
         description: "AR restaurant menu with photoreal 3D dishes and nutrition labels — works on web and iOS/Android AR.",
         image: "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=800&q=60",
