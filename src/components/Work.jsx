@@ -42,7 +42,7 @@ const works = [
         title: "Truth Weaver",
         description: "AI deception-analysis tool — transcribes testimony with Whisper and flags contradictions and evasions to synthesize the likely truth.",
         image: "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&fit=crop&w=800&q=60",
-        link: "https://truth-weaver.vercel.app/",
+        link: "https://github.com/deepak0x/Truth-Weaver",
     },
     {
         title: "Golden Oak AR",
