@@ -3,40 +3,40 @@ import { FiExternalLink } from 'react-icons/fi';
 
 const works = [
     {
-        title: "RAG Chatbot with UI",
-        description: "Semantic PDF/DOC Q&A using FAISS and React + Flask",
-        image: "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=800", // AI + docs
-        link: "https://github.com/deepakbhagatiitr/adv_rag",
+        title: "Trip Tracker by Zen",
+        description: "Enterprise Flutter + Odoo ERP app — offline-first with FaceNet TFLite biometric attendance. Live on Play Store & App Store.",
+        image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=800&q=60",
+        link: "https://play.google.com/store/search?q=Trip%20Tracker%20by%20Zen&c=apps",
     },
     {
-        title: "Cold Emailing Bot",
-        description: "LLM-driven Discord Bot for Automated Outreach",
-        image: "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?auto=format&fit=crop&w=800&q=60",
-        link: "https://github.com/deepakbhagatiitr/DiscordBot",
+        title: "E-Summit Portal – IIT Roorkee",
+        description: "Django + PostgreSQL platform serving 2,500+ participants, with a real-time event-day control panel.",
+        image: "https://images.unsplash.com/photo-1540575467063-178a50c2df87?auto=format&fit=crop&w=800&q=60",
+        link: "https://esummit.in/",
     },
     {
-        title: "FitKnight",
-        description: "Flutter App for Fitness Matchmaking and Chat",
-        image: "https://images.unsplash.com/photo-1554284126-aa88f22d8b74?auto=format&fit=crop&w=800&q=60",
-        link: "https://github.com/deepakbhagatiitr/FitKnight",
+        title: "Eve – Social App",
+        description: "Real-time activity-based social platform. 12+ Django REST APIs on GCP, Flutter app live on Play Store & App Store.",
+        image: "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=800&q=60",
+        link: "https://meetwitheve.com/",
     },
     {
-        title: "Marketing Website",
-        description: "Visionvowresearch",
-        image: "images/marketing.webp",
-        link: "https://www.visionvowresearch.com/",
+        title: "AI Interviewer",
+        description: "AI-powered live coding interview platform with dual admin/candidate portals and real-time code analysis.",
+        image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=800&q=60",
+        link: "https://github.com/deepak0x/Ai_interviewer",
     },
     {
-        title: "Search Engine for Blogs",
-        description: "LLM-powered Filtered Blog Discovery via Flask",
-        image: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?auto=format&fit=crop&w=800&q=80",
-        link: "https://github.com/deepakbhagatiitr/Search-Engine-for-Blogs-and-Articles",
+        title: "RAGGaze",
+        description: "RAG-powered AI assistant suite — LangChain/FAISS/OpenAI backend with React chat frontends for PDF & API Q&A.",
+        image: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=800&q=60",
+        link: "https://github.com/deepak0x/RAGGaze",
     },
     {
-        title: "Skin Disease Predictor",
-        description: "Image-Based Diagnosis + Chatbot via TensorFlow & Django",
-        image: "https://images.pexels.com/photos/5863392/pexels-photo-5863392.jpeg?auto=compress&cs=tinysrgb&w=800", // medical
-        link: "https://github.com/deepakbhagatiitr/Syntax-Error-2024",
+        title: "Editron",
+        description: "Browser-based dev environment powered by WebContainers, Monaco Editor, and integrated AI — build & run without local setup.",
+        image: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=60",
+        link: "https://github.com/deepak0x/Editron",
     },
 ];
 

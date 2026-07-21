@@ -22,7 +22,7 @@ const About = () => {
                         About Me
                     </h2>
                     <p className="mb-6 leading-relaxed text-gray-400">
-                        I’m Deepak Bhagat, a B.Tech. student at IIT Roorkee with a strong passion for building scalable systems and AI-driven tools. I’ve worked on many projects across IITR initiatives and multiple internships, spanning full-stack development, ML, and cloud infrastructure. Proficient in React, Django, Flutter, GCP, and AWS, I aim to craft impactful tech and drive innovation through real-world solutions.
+                        I’m Deepak Bhagat, a B.Tech. student at IIT Roorkee and Head of Tech at E-Cell, IIT Roorkee. As a Founding Backend &amp; Mobile Engineer, I’ve shipped Flutter apps live on the Play Store and App Store, built Django REST backends on Google Cloud and AWS, and engineered offline-first systems with on-device ML. I love turning hard problems into reliable, real-world products — from enterprise ERP apps to platforms serving thousands of users.
                     </p>
 
                     <nav className="my-5">
@@ -47,18 +47,18 @@ const About = () => {
                             <div>
                                 <div className="mb-3 space-y-1">
                                     <span className="block font-medium text-pink-500">
-                                        DevOps Engineer
+                                        Backend Engineer
                                     </span>
                                     <p className="text-gray-400">
-                                        Deploying scalable cloud-based apps with Docker, GCP, and AWS.
+                                        Building REST APIs with Django REST Framework and PostgreSQL, deployed on Google Cloud and AWS.
                                     </p>
                                 </div>
                                 <div className="mb-3 space-y-1">
                                     <span className="block font-medium text-pink-500">
-                                        Developer
+                                        Mobile Engineer
                                     </span>
                                     <p className="text-gray-400">
-                                        Building full-stack web/mobile platforms using React, Django, and Flutter.
+                                        Shipping cross-platform Flutter apps end-to-end, live on the Play Store and App Store.
                                     </p>
                                 </div>
                                 <div className="space-y-1">
@@ -66,7 +66,7 @@ const About = () => {
                                         AI Engineer
                                     </span>
                                     <p className="text-gray-400">
-                                        Creating LLM-based systems, RAG bots, and intelligent user tools.
+                                        Integrating on-device ML (FaceNet TFLite, YOLO) and agentic AI into production systems.
                                     </p>
                                 </div>
                             </div>
@@ -75,38 +75,46 @@ const About = () => {
                             <div>
                                 <div className="mb-3 space-y-1">
                                     <span className="block font-medium text-pink-500">
-                                        June, 2024 - September, 2024
+                                        Nov 2025 - Mar 2026
                                     </span>
                                     <p className="text-gray-400">
-                                        Software Developer at Absolute Dimension
+                                        Software Engineer at Zen Software Solutions Inc.
                                     </p>
                                 </div>
                                 <div className="mb-3 space-y-1">
                                     <span className="block font-medium text-pink-500">
-                                        December, 2024 - February, 2025
+                                        May 2025 - Nov 2025
                                     </span>
                                     <p className="text-gray-400">
-                                        Full Stack Developer at Region Infinity
+                                        Founding Backend &amp; Mobile Engineer at Eve
                                     </p>
                                 </div>
                                 <div className="space-y-1">
                                     <span className="block font-medium text-pink-500">
-                                        May, 2025 - June, 2025
+                                        Apr 2025 - Present
                                     </span>
                                     <p className="text-gray-400">
-                                        Software Engineer at Eve
+                                        Head of Tech at E-Cell, IIT Roorkee
                                     </p>
                                 </div>
                             </div>
                         )}
                         {activeSection === 'education' && (
                             <div>
-                                <div className="space-y-1">
+                                <div className="mb-3 space-y-1">
                                     <span className="block font-medium text-pink-500">
-                                        2023 – Present
+                                        2023 – 2027
                                     </span>
                                     <p className="text-gray-400">
                                         B.Tech. in Mechanical Engineering at IIT Roorkee
+                                    </p>
+                                </div>
+                                <div className="space-y-1">
+                                    <span className="block font-medium text-pink-500">
+                                        CBSE Class XII — 91.4%
+                                    </span>
+                                    <p className="text-gray-400">
+                                        Govt. Co-Ed Sarvodaya Vidyalaya, Delhi
                                     </p>
                                 </div>
                             </div>

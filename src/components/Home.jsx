@@ -7,9 +7,10 @@ const Home = () => {
     useEffect(() => {
         const options = {
             strings: [
-                'AI Engineer',
                 'Software Engineer',
-                'DevOps Engineer'
+                'Backend &amp; Mobile Engineer',
+                'Flutter Developer',
+                'AI Engineer'
             ],
             typeSpeed: 50,
             backSpeed: 30,

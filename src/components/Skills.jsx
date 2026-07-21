@@ -18,27 +18,29 @@ import {
     SiFlutter,
     SiNextdotjs,
     SiCplusplus,
-    SiExpress,
     SiAmazonaws,
-    SiDjango
+    SiDjango,
+    SiDocker,
+    SiKubernetes
 } from 'react-icons/si';
 
 const skills = [
-    { name: 'DJANGO', icon: <SiDjango />, color: '#092E20' }, // Django replaces ReactJS
-    { name: 'NODE JS', icon: <FaNodeJs />, color: '#339933' },
-    { name: 'FIREBASE', icon: <SiFirebase />, color: '#FFCA28' },
-    { name: 'MONGODB', icon: <SiMongodb />, color: '#47A248' },
     { name: 'PYTHON', icon: <FaPython />, color: '#3776AB' },
-    { name: 'SCIKIT-LEARN', icon: <FaRobot />, color: '#FF5722' }, // sklearn replaces Bootstrap
-    { name: 'POSTGRESQL', icon: <SiPostgresql />, color: '#336791' }, // replaces MySQL
-    { name: 'GIT', icon: <FaGitAlt />, color: '#F05032' },
-    { name: 'FLUTTER', icon: <SiFlutter />, color: '#02569B' },
     { name: 'C++', icon: <SiCplusplus />, color: '#00599C' },
+    { name: 'JAVASCRIPT', icon: <FaJs />, color: '#F7DF1E' },
+    { name: 'REACT', icon: <FaReact />, color: '#61DAFB' },
     { name: 'NEXT JS', icon: <SiNextdotjs />, color: '#E8E8E8' },
-    { name: 'EXPRESS JS', icon: <SiExpress />, color: '#303030' },
-    { name: 'AI', icon: <FaRobot />, color: '#FF5722' },
+    { name: 'NODE JS', icon: <FaNodeJs />, color: '#339933' },
+    { name: 'DJANGO', icon: <SiDjango />, color: '#44B78B' },
+    { name: 'FLUTTER', icon: <SiFlutter />, color: '#02569B' },
+    { name: 'POSTGRESQL', icon: <SiPostgresql />, color: '#336791' },
+    { name: 'MONGODB', icon: <SiMongodb />, color: '#47A248' },
+    { name: 'FIREBASE', icon: <SiFirebase />, color: '#FFCA28' },
     { name: 'AWS', icon: <SiAmazonaws />, color: '#FF9900' },
-    { name: 'LINUX', icon: <FaLinux />, color: '#FCC624' }, // Linux replaces GCP
+    { name: 'DOCKER', icon: <SiDocker />, color: '#2496ED' },
+    { name: 'KUBERNETES', icon: <SiKubernetes />, color: '#326CE5' },
+    { name: 'GIT', icon: <FaGitAlt />, color: '#F05032' },
+    { name: 'AI / ML', icon: <FaRobot />, color: '#FF5722' },
 ];
 
 

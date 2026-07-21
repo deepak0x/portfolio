@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { FaEnvelope, FaPhoneAlt, FaFacebookF, FaTwitter, FaInstagram, FaLinkedinIn } from 'react-icons/fa';
+import { FaEnvelope, FaPhoneAlt, FaFacebookF, FaTwitter, FaInstagram, FaLinkedinIn, FaGithub } from 'react-icons/fa';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
@@ -101,13 +101,16 @@ const ContactForm = () => {
                             <a href="https://www.facebook.com/profile.php?id=100017290535071" target="_blank" rel="noopener noreferrer">
                                 <FaFacebookF className="text-xl text-white transition duration-300 cursor-pointer md:text-2xl hover:text-pink-500" />
                             </a>
-                            {/* <a href="https://x.com/?lang=en-in" target="_blank" rel="noopener noreferrer">
+                            <a href="https://x.com/deepakbhagat0x" target="_blank" rel="noopener noreferrer">
                                 <FaTwitter className="text-xl text-white transition duration-300 cursor-pointer md:text-2xl hover:text-pink-500" />
-                            </a> */}
+                            </a>
+                            <a href="https://github.com/deepak0x" target="_blank" rel="noopener noreferrer">
+                                <FaGithub className="text-xl text-white transition duration-300 cursor-pointer md:text-2xl hover:text-pink-500" />
+                            </a>
                             <a href="https://www.instagram.com/deepak.diary/" target="_blank" rel="noopener noreferrer">
                                 <FaInstagram className="text-xl text-white transition duration-300 cursor-pointer md:text-2xl hover:text-pink-500" />
                             </a>
-                            <a href="https://www.linkedin.com/in/deepakbhagatiitr/" target="_blank" rel="noopener noreferrer">
+                            <a href="https://www.linkedin.com/in/deepak0x/" target="_blank" rel="noopener noreferrer">
                                 <FaLinkedinIn className="text-xl text-white transition duration-300 cursor-pointer md:text-2xl hover:text-pink-500" />
                             </a>
                         </div>

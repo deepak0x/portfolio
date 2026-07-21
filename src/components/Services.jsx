@@ -27,7 +27,7 @@ const Services = () => {
     const services = [
         {
             name: "App Development",
-            description: "Developing modern and efficient mobile applications.",
+            description: "Building cross-platform mobile apps with Flutter, shipped to the Play Store and App Store.",
             icon: <PiAppStoreLogoBold />,
         },
         {
